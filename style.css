@@ -1,0 +1,17 @@
+body {
+    margin: 30px;
+    padding: 20px;
+    background-image: linear-gradient(to left, white, black);
+}
+.special-btn {
+    margin-left: 600px;
+}
+#rolling-dice {
+    display: none;
+}
+.stop {
+    display: none;
+}
+#congrats {
+    display: none;
+}
